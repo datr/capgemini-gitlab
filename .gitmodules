@@ -1,0 +1,18 @@
+[submodule "vagrant/modules/wget"]
+	path = vagrant/modules/wget
+	url = https://github.com/maestrodev/puppet-wget.git
+[submodule "vagrant/modules/apt"]
+	path = vagrant/modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "vagrant/modules/stdlib"]
+	path = vagrant/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "gitlab-shell"]
+	path = gitlab-shell
+	url = https://github.com/gitlabhq/gitlab-shell.git
+[submodule "vagrant/modules/mysql"]
+	path = vagrant/modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "gitlab"]
+	path = gitlab
+	url = https://github.com/gitlabhq/gitlabhq.git
